@@ -1,0 +1,16 @@
+{
+    "products": [
+        { "id": 1, "name": "Ugali, Sukuma and beef", "origin": "Kenyan", "price": 8.99 },
+        { "id": 2, "name": "Chapati and Beans", "origin": "Kenyan", "price": 6.99 },
+        { "id": 3, "name": "Rogan josh", "origin": "Indian", "price": 6.99 },
+        { "id": 4, "name": "Masala dosa", "origin": "Indian", "price": 8.99 },
+        { "id": 5, "name": "Tacos", "origin": "Mexican", "price": 12.99 },
+        { "id": 6, "name": "Chilaquiles", "origin": "Mexican", "price": 6.99 },
+        { "id": 7, "name": "Pizza Romana", "origin": "Italian", "price": 8.99 },
+        { "id": 8, "name": "Lasagna", "origin": "Italian", "price": 12.99 },
+        { "id": 9, "name": "Pork ribs with fries", "origin": "Kenyan", "price": 12.99 },
+        { "id": 10, "name": "Burritos", "origin": "Mexican", "price": 12.99 },
+        { "id": 11, "name": "Githeri", "origin": "Kenyan", "price": 12.99 },
+        { "id": 12, "name": "Fettuccine Alfredo", "origin": "Italian", "price": 12.99 }
+    ]
+}
